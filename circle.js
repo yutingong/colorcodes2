@@ -6,7 +6,7 @@ $(document).ready(function() {
     	$menuWrap = $('.menu-wrap'),
     	$sidebarArrow = $('.sidebar-menu-arrow');
 
-	// Hamburger button
+	// Button
 
 	$toggleButton.on('click', function() {
 		$(this).toggleClass('button-open');
