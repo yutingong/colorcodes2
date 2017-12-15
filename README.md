@@ -29,3 +29,5 @@ Yu Ting Ong, www.yutingong.com
 <h3>License</h3>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+<h3><i>Color Codes</i> is optimized for view on Chrome</h3>
