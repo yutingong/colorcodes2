@@ -1,0 +1,791 @@
+body{
+  background-color: white;
+  font-family: 'Space Mono'
+  ;
+  color: hsl(273, 100%, 91%);
+}
+
+h1{
+  padding-left: 20px;
+}
+
+
+h1 a{
+ color: hsl(273, 95%, 50%);
+}
+
+
+
+h1 a:hover{
+  color: limegreen;
+}
+
+
+.circle1 {
+position: absolute;
+left: 45%;
+top: 15%;
+	width: 200px;
+	height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle1:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+.circle2 {
+position: absolute;
+left: 37%;
+top: 15%;
+width: 200px;
+height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle2:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+.circle3 {
+position: absolute;
+left: 53%;
+top: 15%;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle3:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+.circle4 {
+  position: absolute;
+  left:33%;
+  top: 15%;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle4:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+.circle5{
+  position: absolute;
+  left: 41%;
+  top: 15%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle5:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+.circle6{
+  position: absolute;
+  left: 49%;
+  top: 15%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle6:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+
+.circle7 {
+  position: absolute;
+  left: 57%;
+  top: 15%;
+
+
+  display: flex;
+  justify-content: center;
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle7:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+.circle8 {
+position: absolute;
+left: 61%;
+top: 15%;
+	width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle8:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 12%;
+}
+
+/* R2 */
+.circle9 {
+position: absolute;
+left: 45%;
+top: 28.5%;
+	width: 200px;
+	height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle9:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+.circle10 {
+position: absolute;
+left: 37%;
+top: 28.5%;
+width: 200px;
+height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle10:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+.circle11 {
+position: absolute;
+left: 53%;
+top: 28.5%;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle11:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+.circle12 {
+  position: absolute;
+  left:33%;
+top: 28.5%;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle12:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+.circle13{
+  position: absolute;
+  left: 41%;
+top: 28.5%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle13:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+.circle14{
+  position: absolute;
+  left: 49%;
+top: 28.5%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle14:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+
+
+
+.circle15 {
+  position: absolute;
+  left: 57%;
+top: 28.5%;
+
+
+  display: flex;
+  justify-content: center;
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle15:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+
+.circle16 {
+position: absolute;
+left: 61%;
+top: 28.5%;
+	width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+transition: all 0.8s linear 0.1s;
+}
+.circle16:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 25.5%;
+}
+/* R3 */
+.circle17 {
+position: absolute;
+left: 45%;
+top: 42%;
+	width: 200px;
+	height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle17:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+.circle18 {
+position: absolute;
+left: 37%;
+top: 42%;
+width: 200px;
+height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle18:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+
+.circle19 {
+position: absolute;
+left: 53%;
+top: 42%;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle19:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+
+.circle20 {
+  position: absolute;
+  left:33%;
+  top: 42%;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle20:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+
+.circle21{
+  position: absolute;
+  left: 41%;
+top: 42%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle21:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+.circle22{
+  position: absolute;
+  left: 49%;
+  top: 42%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle22:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+
+
+.circle23 {
+  position: absolute;
+  left: 57%;
+top: 42%;
+
+
+  display: flex;
+  justify-content: center;
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle23:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+
+.circle24 {
+position: absolute;
+left: 61%;
+top: 42%;
+	width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle24:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 39%;
+}
+/* R4 */
+.circle25{
+position: absolute;
+left: 45%;
+top: 55.5%;
+	width: 200px;
+	height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle25:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+.circle26 {
+position: absolute;
+left: 37%;
+top: 55.5%;
+width: 200px;
+height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle26:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+
+.circle27 {
+position: absolute;
+left: 53%;
+top: 55.5%;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle27:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+
+.circle28 {
+  position: absolute;
+  left:33%;
+top: 55.5%;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle28:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+
+.circle29{
+  position: absolute;
+  left: 41%;
+top: 55.5%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle29:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+.circle30{
+  position: absolute;
+  left: 49%;
+top: 55.5%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle30:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+
+
+.circle31 {
+  position: absolute;
+  left: 57%;
+top: 55.5%;
+
+
+  display: flex;
+  justify-content: center;
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle31:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+
+.circle32 {
+position: absolute;
+left: 61%;
+top: 55.5%;
+	width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle32:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 52.5%;
+}
+/* R5 */
+.circle33 {
+position: absolute;
+left: 45%;
+top: 69%;
+	width: 200px;
+	height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle33:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+.circle34 {
+position: absolute;
+left: 37%;
+top: 69%;
+width: 200px;
+height: 200px;
+	background: rgba(125, 125, 125, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle34:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+
+.circle35 {
+position: absolute;
+left: 53%;
+top: 69%;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle35:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+
+.circle36 {
+  position: absolute;
+  left:33%;
+top: 69%;
+  display: flex;
+  justify-content: center;
+  width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle36:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+
+.circle37{
+  position: absolute;
+  left: 41%;
+top: 69%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(128, 0, 255, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle37:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+.circle38{
+  position: absolute;
+  left: 49%;
+top: 69%;
+display: flex;
+justify-content: center;
+width: 200px;
+height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 150px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle38:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+
+
+.circle39 {
+  position: absolute;
+  left: 57%;
+top: 69%;
+
+
+  display: flex;
+  justify-content: center;
+	width: 200px;
+	height: 200px;
+	background: rgba(0, 255, 0, 0.6);
+  -moz-border-radius: 100px;
+  -webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle39:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}
+
+.circle40 {
+position: absolute;
+left: 61%;
+top: 69%;
+	width: 200px;
+	height: 200px;
+	background: rgba(255, 0, 0, 0.6);
+	-moz-border-radius: 100px;
+	-webkit-border-radius:100px;
+	border-radius: 200px;
+	z-index: 7;
+	transition: all 0.8s linear 0.1s;
+}
+.circle40:hover {
+background-color: rgba(0, 0, 0, 0.5);
+top: 66%;
+}

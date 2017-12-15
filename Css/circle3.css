@@ -1,0 +1,1396 @@
+body{
+  background-color: white;
+  font-family: 'Space Mono'
+  ;
+  color: hsl(273, 100%, 91%);
+}
+
+h1{
+  padding-left: 20px;
+}
+
+
+h1 a{
+ color: hsl(273, 95%, 50%);
+}
+
+
+
+h1 a:hover{
+  color: limegreen;
+}
+
+#container {
+  padding-top: 3rem;
+  margin: 0rem;
+
+}
+#circle{
+display: flex;
+justify-content: center;
+
+}
+.circle1 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle1:hover {
+
+   background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+
+#circle1{
+display: flex;
+justify-content: center;
+
+}
+.circle2 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle2:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+
+}
+
+
+
+.circle3{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle3:hover {
+
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+
+}
+
+
+
+.circle4 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle4:hover {
+
+  background: linear-gradient(to bottom, coral, white,#9933ff, white);
+
+}
+
+#circle2{
+display: flex;
+justify-content: center;
+
+}
+
+.circle5 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle5:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+
+}
+
+
+
+.circle6 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle6:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+
+}
+
+.circle7 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+   transition: all 1.5s ease-out 0.5s;
+}
+.circle7:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+
+}
+
+
+
+.circle8 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle8:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+
+}
+
+.circle9 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+
+}
+.circle9:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+
+}
+#circle3{
+display: flex;
+justify-content: center;
+
+}
+.circle10 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle10:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+
+
+.circle11 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle11:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+.circle12 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle12:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+
+
+.circle13 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle13:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+.circle14{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle14:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+.circle15 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle15:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+.circle16{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle16:hover {
+background: linear-gradient(to bottom, coral, white,#9933ff, white);
+}
+
+#circle4{
+display: flex;
+justify-content: center;
+
+}
+.circle17 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle17:hover {
+background: linear-gradient(to top, coral, white,#9933ff, white);
+}
+
+
+
+.circle18 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle18:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle19 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle19:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+
+
+.circle20 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle20:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle21{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle21:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+.circle22 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle22:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle23{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle23:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle24 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle24:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle25{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle25:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+#circle5{
+display: flex;
+justify-content: center;
+
+}
+.circle26 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle26:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle27 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle27:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle28 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle28:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+
+
+.circle29 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle29:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle30{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle30:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+.circle31 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle31:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle32{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle32:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle33 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle33:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle34{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	  background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle34:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle35 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle35:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+.circle36{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle36:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+#circle6{
+display: flex;
+justify-content: center;
+
+}
+.circle37 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle37:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle38 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle38:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle39 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle39:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+
+
+.circle40 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle40:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle41{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle41:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+.circle42 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle42:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle43{
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle43:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle44 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle44:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle45{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle45:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+#circle7{
+display: flex;
+justify-content: center;
+
+}
+
+.circle46 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle46:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle47 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle47:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle48 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle48:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle49 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle49:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle50 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle50:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+.circle51 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle51:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle52 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle52:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+#circle10{
+display: flex;
+justify-content: center;
+
+}
+
+
+.circle61 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle61:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+#circle9{
+display: flex;
+justify-content: center;
+
+}
+.circle58{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle58:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle59{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle59:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle60 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle60:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+#circle8{
+display: flex;
+justify-content: center;
+
+}
+
+.circle53 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle53:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle54 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle54:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle55 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle55:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle56 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle56:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle57 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle57:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+#circle11{
+display: flex;
+justify-content: center;
+
+}
+.circle62 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle62:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle63 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle63:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle64 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+ background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle64:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle65 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	 background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle65:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle66{
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle66:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+.circle67 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle67:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle68{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle68:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle69 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle69:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle70{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle70:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle71 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle71:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle72{
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle72:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+.circle73 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle73:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+.circle74{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle74:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+
+#circle12{
+display: flex;
+justify-content: center;
+
+}
+.circle75 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle75:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle76 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle76:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle77 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle77:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+
+
+.circle78 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to top, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle78:hover {
+background: linear-gradient(to top, coral, white, #9933ff, white);
+}
+
+.circle79{
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle79:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+.circle80 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle80:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle81{
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle81:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle82 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle82:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle83{
+  display: flex;
+	width: 75px;
+	height: 75px;
+	background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle83:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle84 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle84:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle85{
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to right, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle85:hover {
+background: linear-gradient(to right, coral, deeppink, white,limegreen, white);
+}
+
+.circle86 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle86:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+.circle87 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle87:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+.circle88 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle88:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
+.circle89 {
+  display: flex;
+	width: 75px;
+	height: 75px;
+background: linear-gradient(to bottom, deeppink,white, blue, white,limegreen);
+	-moz-border-radius: 37.5px;
+	-webkit-border-radius: 37.5px;
+	border-radius: 75px;
+	z-index: 7;
+}
+.circle89:hover {
+background: linear-gradient(to bottom, coral, white, #9933ff, white);
+}
