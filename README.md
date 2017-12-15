@@ -5,7 +5,7 @@ Color Codes #2
 <i>Color Codes</i> is created with html + css codes, where codes are the ingredients to image making as much as paint is.
 It belongs to a part of my interdisciplinary art practice that probes into the fluid materiality of paint and the fluid boundaries painting shares with other disciplines.
 <br  />
-This project looks at how technology dissolves and made porous the boundaries and spaces in which we experience an artwork by way of activating a more fluid repository where one format can be converted into another.
+  This <i>ongoing</i> project looks at how technology dissolves and made porous the boundaries and spaces in which we experience an artwork by way of activating a more fluid repository where one format can be converted into another.
 It pushes the creative limits of our user interface experiences, where visual disruptions in our everyday digital culture affect our experiences with visual information or data, raises issues on authorship as well as influences subjectivities.
 <br  />
 <i>Color Codes</i> examines the spaces in-between; of painting as a value laden indexical sign and the general pervasiveness of an open-source model along with the sharing of digital content in various social, technological and creative spheres. </p>
